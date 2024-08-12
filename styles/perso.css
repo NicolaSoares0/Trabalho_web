@@ -1,0 +1,19 @@
+
+body{
+    background: url("/imgs/Firefly_Paisagem.jpg");
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.titulo{
+    color: #fff;
+}
+
+.form-label{
+    color: #fff;
+}
+
+.mb-3{
+    color: black;
+}

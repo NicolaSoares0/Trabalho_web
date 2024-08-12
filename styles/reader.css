@@ -1,0 +1,26 @@
+*{
+    text-align: center;
+}
+
+body{
+    background-image: url("/imgs/Firefly_Paisagem.jpg");
+    background-size:cover;
+    background-position: center;
+    min-height: 100vh;
+}
+
+.container_resultados{
+    display: flex;
+    justify-content: space-around;
+    color: #fff;
+}
+
+.editButton{
+    background-color: black;
+    color: #fff;
+}
+
+.editButton:hover{
+    background-color: #fff;
+    color: #000;
+}
